@@ -5,19 +5,19 @@ html {
   line-height: 1.5;
 }
 
-*,*::before, *::after {
-  box-sizing:inherit;
+*,* ::before, *::after {
+  box-sizing: inherit;
 }
 
 img {
   width: 100%;
 }
+
 h1, h2 {
-  font-family: Patua One, sans-serif;
+  font-family: "Patua One", sans-serif;
   color: #5d8432;
   text-transform: uppercase;
 }
-
 
 figcaption {
   font-size: .8rem;
@@ -26,7 +26,7 @@ figcaption {
 }
 
 nav {
-  font-family: Patua One, sans-serif;
+  font-family: "Patua One", sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
 }
