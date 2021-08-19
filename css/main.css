@@ -19,10 +19,15 @@ h1, h2 {
   text-transform: uppercase;
 }
 
+h2 {
+  margin: 1.30rem 0;
+}
+
 figcaption {
   font-size: .8rem;
   font-style: italic;
   text-align: center;
+  /*margin: .5em 0;*/
 }
 
 nav {
